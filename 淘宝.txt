@@ -1,0 +1,22 @@
+category		类别ID
+comment_count	
+comment_url  	商品链接
+detail_url      	商品链接
+i2iTags		samestyle      
+		similar                
+icon  		小图标
+item_loc  		商家地址
+nick   		商家店名
+nid  		宝贝Id
+p4pTags
+pic_url  		宝贝图片
+pid
+raw_title 		商标名称
+shopLink		商品展示
+shopcard		购物卡
+title 		宝贝名称
+user_Id		用户Id
+view_fee		邮费
+view_price 	宝贝价格
+view_sales		购买人数
+
